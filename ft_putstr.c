@@ -1,3 +1,6 @@
 #include <stdio.h>
 
-char
+int putstr(int c)
+{
+    
+}
